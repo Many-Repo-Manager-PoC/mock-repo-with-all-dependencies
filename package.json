@@ -6,7 +6,7 @@
     "mock-repo-with-one-dependency": "^1.0.0",
     "mock-repo-with-no-dependencies": "^1.0.0",
     "repo-with-also-one-dependency": "^1.0.0",
-    "mock-design-system-repo": "8.0.5"
+    "@many-repo-manager-poc/mock-design-system-repo": "8.0.5"
   },
   "devDependencies": {
     "mock-repo-with-two-dependencies": "^1.0.0",
